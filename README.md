@@ -5,10 +5,13 @@ framework is intended to be used with gettext style tooling although it is possi
 provide alternative implementations of the interfaces exposed by this framework.
 
 ```sh
-$ npm install --save rotorz/dotnet-localized-strings
+$ yarn add rotorz/dotnet-localized-strings
 ```
 
-This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
+This package is compatible with the [unity3d-package-syncer][tool] tool. Refer to the
+tools' [README][tool] for information on syncing packages into a Unity project.
+
+[tool]: https://github.com/rotorz/unity3d-package-syncer
 
 
 ## Setting up an environment with a single language domain
