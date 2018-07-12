@@ -1,0 +1,6 @@
+{
+    "name": "rotorz.dotnet-localized-strings",
+    "references": [
+        "rotorz.dotnet-exception-utils"
+    ]
+}
