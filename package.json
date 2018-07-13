@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/dotnet-localized-strings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight localization framework built on top of the NGettext library in .NET. This framework is intended to be used with gettext style tooling although it is possible to provide alternative implementations of the interfaces exposed by this framework.",
   "main": "index.js",
   "scripts": {
