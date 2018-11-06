@@ -61,7 +61,7 @@ namespace Rotorz.Games.Localization
             ExceptionUtility.CheckArgumentNotNull(loader, "loader");
 
             string filePattern = string.Format(
-                @"^(?<Locale>[a-z]+([\-\_][a-z]+)*){0}$",
+                @"^(?<Locale>[a-z]+([\-_][a-z]+)*){0}$",
                 Regex.Escape(fileExtension)
             );
 
